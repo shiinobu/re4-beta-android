@@ -1,6 +1,6 @@
 {
   "enabled": false,
-  "message": "The Beta has ended. Back up your saves (Settings > Save Data > Back Up), then install RE4 1.0 from the developer.",
+  "message": "The Beta test has ended. Thank you for testing! The release version is coming soon. Until then, back up your saves (Settings > Save Data > Back Up) so you can bring them to the release.",
   "min_beta": 1,
   "min_beta_message": "This Beta is too old. Install the new Beta from the developer."
 }
